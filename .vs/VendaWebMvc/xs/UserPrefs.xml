@@ -1,4 +1,22 @@
-﻿<Properties StartupConfiguration="{98B0A057-2971-4214-BF19-7391A77B5239}|Default">
-  <MonoDevelop.Ide.ItemProperties.VendaWebMvc FirstBuild="True" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{98B0A057-2971-4214-BF19-7391A77B5239}|Default">
+  <MonoDevelop.Ide.ItemProperties.VendaWebMvc PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VendaWebMvc" expanded="True">
+            <Node name="VendaWebMvc" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
